@@ -11,6 +11,9 @@ Role : Lead analyst
 
 Tasks Performed through the entire business intelligence workflow: :-
 connecting and shaping the source data,
+
 building a relational model,
+
 adding calculated columns and measures,
+
 designing an interactive report.
